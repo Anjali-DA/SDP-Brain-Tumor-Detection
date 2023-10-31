@@ -1,7 +1,9 @@
 README.md
 setup.py
 src/__init__.py
+src/exception.py
 src/logger.py
+src/utils.py
 src/pipeline/__init__.py
 src/pipeline/prediction_pipeline.py
 src/pipeline/train_pipeline.py
